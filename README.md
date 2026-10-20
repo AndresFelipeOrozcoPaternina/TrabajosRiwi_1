@@ -1,3 +1,10 @@
-# Trabajos semana 1 Andres Felipe Orozco Paternina
+# Trabajos Riwi Andres Felipe Orozco Paternina
 ## Contexto
-En este repositorio mandare todas las actividades mandadas por el medio de discord
+En este repositorio mandare todas las actividades mandadas
+
+## Semana 1
+Todas las actividades montadas en este repositorio
+
+## Semana 2
+
+Trabajado en este link: https://github.com/AndresFelipeOrozcoPaternina/rueda-libre
